@@ -1,5 +1,5 @@
 # python-api-challenge
-Jupyter notebooks to access weather data for nearest-fit cities from randomly generated geodata using citipy and OpenWeatherMap's API. Data was saved to a .csv for later use (and to save the precious few free API credits), then recalled for various graphs (see `/starter_code/WeatherPy.ipynb` and some of the `'Fig-\*.png'` files in the `/output_data/` folder). This data was then further filtered through some weather criteria to narrow down the set, used to find the nearest hotel within 10km for the remaining cities, and plotted on a map to see the results geographically (See `/starter_code/VacationPy.ipynb`).
+Jupyter notebooks to access weather data for nearest-fit cities from randomly generated geodata using citipy and OpenWeatherMap's API. Data was saved to a .csv for later use (and to save the precious few free API credits), then recalled for various graphs (see `/starter_code/WeatherPy.ipynb` and some of the `'Fig-*.png'` files in the `/output_data/` folder). This data was then further filtered through some weather criteria to narrow down the set, used to find the nearest hotel within 10km for the remaining cities, and plotted on a map to see the results geographically (See `/starter_code/VacationPy.ipynb`).
 
 
 ## Citations
